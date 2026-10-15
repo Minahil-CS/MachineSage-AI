@@ -1,0 +1,17 @@
+# Sample Manual — Demonstration Only
+This sample document is fictional and is included only to demonstrate retrieval. It is not a manufacturer's manual and must not be used to operate, repair, or assess real equipment.
+
+# Vibration
+If a vibration reading is flagged by a configured demonstration rule, verify the units, sensor mounting, timestamp, and baseline. Compare against the applicable manufacturer's documentation and site procedures. This sample does not define a safe operating limit or confirm a fault.
+
+# Temperature
+If a temperature reading is flagged by a configured demonstration rule, verify the sensor, ambient conditions, operating load, and trend. Consult the actual equipment manual and a qualified technician. Do not infer a confirmed fault from one reading.
+
+# Pressure
+If pressure is flagged, verify the sensor and units and compare the reading with the equipment-specific expected range and process conditions. This sample does not establish an acceptable pressure range.
+
+# Electrical Current
+If current is flagged, confirm the measurement method, operating load, and equipment nameplate specifications. Refer to qualified electrical personnel and approved procedures.
+
+# General Safety and Escalation
+Follow site-approved safety procedures and isolation requirements. Do not bypass guards, interlocks, or protective systems. Escalate uncertain, inconsistent, or potentially hazardous conditions to a qualified human reviewer. Do not rely on this demonstration application to make operational or safety decisions.
